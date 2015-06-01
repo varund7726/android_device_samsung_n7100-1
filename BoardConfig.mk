@@ -46,7 +46,7 @@ RECOVERY_FSTAB_VERSION := 2
 
 #RR
 TARGET_TC_ROM := 4.9-linaro
-TARGET_TC_KERNEL := 4.8
+TARGET_TC_KERNEL := 4.9-sm 
 RROPTI := true
 RR_O3 := true
 RR_STRICT := false
